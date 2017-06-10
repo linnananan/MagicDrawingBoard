@@ -15,8 +15,6 @@
 <img src="https://github.com/linnananan/MagicDrawingBoard/blob/master/MagicBrush/effectImage/f9.PNG" width="80%" height="80%"><br />
 <img src="https://github.com/linnananan/MagicDrawingBoard/blob/master/MagicBrush/effectImage/f10.PNG" width="80%" height="80%"><br />
 <img src="https://github.com/linnananan/MagicDrawingBoard/blob/master/MagicBrush/effectImage/10.png" width="70%" height="70%"><br />
-<img src="https://github.com/linnananan/MagicDrawingBoard/blob/master/MagicBrush/effectImage/3.png" width="70%" height="70%"><br />
-<img src="https://github.com/linnananan/MagicDrawingBoard/blob/master/MagicBrush/effectImage/4.png" width="70%" height="70%"><br />
 <img src="https://github.com/linnananan/MagicDrawingBoard/blob/master/MagicBrush/effectImage/2.png" width="70%" height="70%"><br />
 <img src="https://github.com/linnananan/MagicDrawingBoard/blob/master/MagicBrush/effectImage/IMG_5993.JPG" width="70%" height="70%"><br />
 <img src="https://github.com/linnananan/MagicDrawingBoard/blob/master/MagicBrush/effectImage/IMG_5999.JPG" width="70%" height="70%"><br />
